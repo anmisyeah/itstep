@@ -21,13 +21,13 @@
 </ul>
 
 <p> <b> Professional Experience: </b>
-<ul> 
+<ul>
 <li> It-Step Academy 2021 </li>
 <li> Additional programming classes at the University 2019 - 2020 </li>
 </ul>
 
 <p> <b> Education: </b>
-<ul> 
+<ul>
 <li> Mogilev State University named after A.A Kuleshov <br>
 Master's Degree in Educational Science 2019 - 2020 <br>
 Bachelor's Degree in Mathematics and Computer Science 2015 - 2019 </li>
@@ -38,7 +38,8 @@ Bachelor's Degree in Mathematics and Computer Science 2015 - 2019 </li>
 </ul>
 <p> <b>Code example: </b>
 
-```javascript
+<p> JavaScript:
+<code><pre>
 var blinking = true;
 var mypos = 0;
 var dpos = 25;
@@ -51,8 +52,8 @@ stringm = new Array(4);
        stringm[4] = "Вам нравится?!";
 function stopit() {
 if (blinking==true) {
- clearTimeout(ianID);
-  document.forms[0].abutton.value = "Нажми для продолжения!";
-  blinking = false;
+clearTimeout(ianID);
+document.forms[0].abutton.value = "Нажми для продолжения!";
+blinking = false;
 }
-```
+</pre><code>
