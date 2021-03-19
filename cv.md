@@ -1,45 +1,39 @@
 <div align="right">
 <img src="https://github.com/anmisyeah/it-step/blob/gh-pages/Фото.jpg?raw=true" width="100" vspace="5" hspace="5" alt = "Фото для cv">
 </div>
-<p> <b> Contacs: </b>
-<ul>
-<li>Mironov Andrey Stanislavovich</li>
-<li>+375(29) 719-85-20</li>
-<li>https://github.com/anmisyeah/it-step.git</li>
-</ul>
-<p> <b>Professional Profile: </b>
 
-<ul>
-<li> Mathematics and Computer Science Teacher with two years of experience.c</li>
-</ul>
+** Contacs: **
 
-<p> <b> Technical Skills: </b>
+* Mironov Andrey Stanislavovich
+* +375(29) 719-85-20
+* https://github.com/anmisyeah/it-step.git
 
-<ul>
-<li> HTML,CSS beginer </li>
-<li> JavaScript beginer </li>
-</ul>
+** Professional Profile: **
 
-<p> <b> Professional Experience: </b>
-<ul>
-<li> It-Step Academy 2021 </li>
-<li> Additional programming classes at the University 2019 - 2020 </li>
-</ul>
+* Mathematics and Computer Science Teacher with two years of experience.
 
-<p> <b> Education: </b>
-<ul>
-<li> Mogilev State University named after A.A Kuleshov <br>
-Master's Degree in Educational Science 2019 - 2020 <br>
-Bachelor's Degree in Mathematics and Computer Science 2015 - 2019 </li>
-</ul>
-<p> <b> Additional Information: </b>
-<ul>
-<li> Intermediate English Level </li>
-</ul>
-<p> <b>Code example: </b>
 
-<p> JavaScript:
-<code><pre>
+** Technical Skills: **
+
+* HTML,CSS beginer
+* JavaScript beginer
+
+** Professional Experience: **
+* It-Step Academy 2021
+* Additional programming classes at the University 2019 - 2020
+
+** Education: **
+* Mogilev State University named after A.A Kuleshov
+Master's Degree in Educational Science 2019 - 2020
+Bachelor's Degree in Mathematics and Computer Science 2015 - 2019
+
+** Additional Information: **
+* Intermediate English Level
+
+** Code example: **
+
+` JavaScript: `
+```
 var blinking = true;
 var mypos = 0;
 var dpos = 25;
@@ -56,4 +50,4 @@ clearTimeout(ianID);
 document.forms[0].abutton.value = "Нажми для продолжения!";
 blinking = false;
 }
-</pre><code>
+```
