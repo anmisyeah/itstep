@@ -1,1 +1,0 @@
-https://anmisyeah.github.io/it-step/cv
